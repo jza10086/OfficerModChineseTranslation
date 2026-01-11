@@ -1,0 +1,61 @@
+Key,Type,Desc,English,Chinese (Simplified),French,German,Italian,Polish,Russian,,UI_Tester
+OFFICER_FILTER,Text,,Officer Class Filter,军官职业筛选,,,,,,,
+CLASS_OFFICER_NAME,Text,,OFFICER,军官,,,,,,,
+OFFICER_DESCRIPTION,Text,,"A tactical support unit specialised in leading their squad at the expense of personal firepower","一个战术支援单位，专注于领导小
+队，但个人火力较弱。",,,,,,,
+CLASS_OFFICER_DESCRIPTION,Text,,Officer Class Soldier,军官职业士兵,,,,,,,
+OFFICER_PROFICIENCY_NAME,Text,,OFFICER TRAINING,军官训练,,,,,,,
+OFFICER_PROFICIENCY_DESCRIPTION,Text,,Proficiency with PDWs and Handguns,精通单兵自卫武器和手枪,,,,,,,
+TRIGGERDISCIPLINE_NAME,Text,,TRIGGER DISCIPLINE,扳机纪律,,,,,,,
+TRIGGERDISCIPLINE_DESC,Text,,Allies within 7 tiles gain 20% accuracy.,7格内的盟友获得20%的精准度加成。,,,,,,,
+RALLY_NAME,Text,,RALLY,重整旗鼓,,,,,,,
+RALLY_DESC,Text,,"Target ally within 10 tiles recovers 25% of their maximum Will Points and gains panic immunity for the next turn. Limited to one use per ally per turn.","10格内目标盟友恢复25%最大意志力，
+并在下一回合获得恐慌免疫。每个盟
+友每回合仅限使用一次。",,,,,,,
+RESILIENCETRAINING_NAME,Text,,RESILIENCE TRAINING,韧性训练,,,,,,,
+RESILIENCETRAINING_DESC,Text,,"Reduces the Action Point cost of using Recover by 1 for all allied units. Units using Recover will also restore all disabled limbs at the start of their next turn.","所有盟友使用“恢复”技能的行动点消
+耗减少1点。使用“恢复”的单位将在其
+下一回合开始时修复所有残废的肢体。",,,,,,,
+RESILIENCETRAINING_OLD,Text,,"Allied units gain 50% Damage Resistance while using Recover and their disabled limbs are restored at the start of their next turn. Reduces the Action Point cost of using Recover by 1.","盟友在使用“恢复”时获得50%的伤害
+抗性，且其残废的肢体将在下一回合
+开始时修复。使用“恢复”的行动点消
+耗减少1点。",,,,,,,
+RESILIENCEEFFECTS_DESC,Text,,"Gain 50% Damage Resistance. Disabled Limbs are restored at the start of the next turn.","获得50%伤害抗性。残废的肢体将在
+下一回合开始时修复。",,,,,,,
+RESILIENCE_DR_DESC,Text,,Incoming damage is reduced by 50%.,受到的伤害减少50%。,,,,,,,
+RESILIENCE_HEAL_DESC,Text,,Restore disabled limbs at the start of the next turn.,在下一回合开始时修复残废的肢体。,,,,,,,
+FIELDCOMMANDER_NAME,Text,,FIELD COMMANDER,战地指挥官,,,,,,,
+FIELDCOMMANDER_DESC,Text,,Allied units earn an additional 50 experience and 1 Skill Point for successful missions.,"任务成功后，盟友额外获得50点经
+验值和1点技能点。",,,,,,,
+ONSLAUGHT_DESC,Text,,Target ally within 10 tiles recovers 2 Action Points. Limited to one use per ally per turn.,"10格内的目标盟友恢复2点行动点。
+每个盟友每回合仅限使用一次。",,,,,,,
+COOLUNDERPRESSURE_NAME,Text,,COOL UNDER PRESSURE,沉着冷静,,,,,,,
+COOLUNDERPRESSURE_DESC,Text,,"Gain 2% Accuracy and 1% Damage for each Will Point spent or lost, up to a maximum of 15 stacks. Stacks reset at the end of your turn.","每消耗或损失1点意志力，获得2%
+精准度和1%伤害加成，最多叠加
+15层。层数在回合结束时重置。",,,,,,,
+DEADEYE_NAME,Text,,DEADEYE,神射手,,,,,,,
+DEADEYE_DESC,Text,,"Take a shot with +50% accuracy and 2x body-part damage. Limited to single shot direct fire weapons.","发动一次射击，精准度+50%，
+且对身体部位造成的伤害翻倍。
+仅限于单发直射武器。",,,,,,,
+PX_PDW_NAME,Text,,Poseidon-90,波塞冬-90,,,,,,,
+PX_PDW_DESC,Text,,Phoenix Standard PDW,凤凰计划制式PDW,,,,,,,
+AMMO_PX_PDW_MAGAZINE_NAME,Text,,Poseidon-90 Magazine,波塞冬-90 弹匣,,,,,,,
+AMMO_PX_PDW_MAGAZINE_DESC,Text,,Phoenix Standard PDW Magazine,凤凰计划制式PDW弹匣,,,,,,,
+PX_OFFICERTRAINING_NAME,Text,,Officer Training Programme,军官训练项目,,,,,,,
+PX_OFFICERTRAINING_UNLOCK,Text,,"As the Phoenix Project expands its reach across the globe, the need for effective battlefield leadership to combat the Pandoran menace has never been greater.","随着凤凰计划在全球范围内的扩张，
+对抗潘多拉威胁所需的有效战场领
+导力变得前所未有的重要。",,,,,,,
+PX_OFFICERTRAINING_COMPLETE,Text,,"The expansion of the Phoenix Project's operations has highlighted the need for improved leadership on the battlefield. Our response is the Officer training programme; a series of specialised courses that will equip eligible personnel with the tactical leadership skills required to command our forces on the ground. From squad-level decision making to morale management, our Officers will optimise the performance of the operatives under their command.
+
+In recognition of their additional responsibilities, we have recommissioned the Personal Defence Weapon programme: our Officers will be armed with a firearm that is compact, manoeuvrable, and easy to use.","凤凰计划的扩张凸显了战场领导力的
+需求。我们为此推出了军官训练项目；
+这一系列专业课程，旨在让符合资格
+的人员学习战术领导技能来指挥地面
+部队。从小队决策到士气管理，我们
+的军官将强化麾下特勤人员的表现。
+
+鉴于他们的重要责任，我们重启了单
+兵自卫武器项目：我们的军官将配备
+一种紧凑、机动性强且易于使用的枪
+械。",,,,,,,
+PX_OFFICERTRAINING_BENEFITS,Text,,Officer soldier class now available.,军官士兵职业现已可用。,,,,,,,
