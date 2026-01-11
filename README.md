@@ -1,2 +1,2 @@
-# OfficeModChineseTranslation
-Chinese translation for OfficeMod of PhoenixPoint
+# OfficerModChineseTranslation
+Chinese translation for OfficerMod of PhoenixPoint
